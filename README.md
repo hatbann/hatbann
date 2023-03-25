@@ -27,10 +27,11 @@
     <br/>
     
       
-  <h4>  ✏ Study Log ✏ </h4>
-  
+  <h4>  ✏ Link ✏ </h4>
+  <a href="https://accessible-coast-252.notion.site/Portfolio-f4de3a9c365a4d06a9697b5456b572ac" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
 <a href="https://velog.io/@hatbann" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
   <a href="https://hatban57.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
+
 <br/>
 <br/>
   <br/>
