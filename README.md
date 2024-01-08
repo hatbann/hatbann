@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=D7F1FE&text=HyebinCho&fontColor=2F2F30)
+![header](https://capsule-render.vercel.app/api?type=soft&color=timeGradient&animation=twinkling&text=HyebinCho&fontColor=000000)
 
 
 <div align="center">
@@ -12,10 +12,14 @@
   <h4>  💻 Tech Stack 💻 </h4>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&l&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/scss-CC6699?style=for-the-badge&l&logo=sass&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&l&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&l&logo=typescript&logoColor=white"/>
+  <br/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&l&logo=React&logoColor=white"/>
      <img src="https://img.shields.io/badge/NextJS-000000?style=for-the-badge&l&logo=nextdotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&l&logo=Redux&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&l&logo=recoil&logoColor=white"/>
   <br/>
       <img src="https://img.shields.io/badge/Node.js-338833?style=for-the-badge&l&logo=Node.js&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&l&logo=Express&logoColor=white"/>
